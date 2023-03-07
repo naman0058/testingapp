@@ -1,0 +1,55 @@
+[
+  {
+    "Company": "Katz",
+    "City": "Dubai",
+    "Contruction": "Plexiglass",
+    "Country": "Delhi",
+    "AppName": "Tresom",
+    "Department": "Clothing",
+    "CarModel": "Town & Country",
+    "Corporate": "Training",
+    "unique_id_": "/delhi",
+    "unique_city_": "/dubai"
+
+  },
+  {
+    "Company": "Livefish",
+    "City": "Abu Dhabi",
+    "Contruction": "Plexiglass",
+    "Country": "Noida",
+    "AppName": "Hatity",
+    "Department": "Outdoors",
+    "CarModel": "RAV4",
+    "Corporate": "Services",
+    "unique_id_": "/noida",
+    "unique_city_": "/abudhabi"
+
+  },
+  {
+    "Company": "Digitube",
+    "City": "Sharjah",
+    "Contruction": "Stone",
+    "Country": "Mumbai",
+    "AppName": "Otcom",
+    "Department": "Music",
+    "CarModel": "Lancer Evolution",
+    "Corporate": "Sales",
+    "unique_id_": "/mumbai",
+    "unique_city_": "/sharjha"
+
+  },
+  {
+    "Company": "Midel",
+    "City": "Fujairah",
+    "Contruction": "Granite",
+    "Country": "Kolkata",
+    "AppName": "Daltfresh",
+    "Department": "Outdoors",
+    "CarModel": "Quest",
+    "Corporate": "Marketing",
+    "unique_id_": "/kolkata",
+    "unique_city_": "/fujarih"
+
+  }
+ 
+]

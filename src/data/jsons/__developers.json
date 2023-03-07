@@ -1,0 +1,44 @@
+[
+    {
+      "Company": "Katz",
+      "City": "MAG",
+      "Contruction": "Plexiglass",
+      "Country": "Emmar",
+      "AppName": "Tresom",
+      "Department": "Clothing",
+      "CarModel": "Town & Country",
+      "Corporate": "Training",
+      "unique_id_": "/emmar",
+      "unique_city_": "/mag"
+  
+    },
+    {
+      "Company": "Livefish",
+      "City": "Aldar",
+      "Contruction": "Plexiglass",
+      "Country": "Damac",
+      "AppName": "Hatity",
+      "Department": "Outdoors",
+      "CarModel": "RAV4",
+      "Corporate": "Services",
+      "unique_id_": "/damac",
+      "unique_city_": "/aldar"
+  
+    },
+    {
+      "Company": "Digitube",
+      "City": "Binghatti",
+      "Contruction": "Stone",
+      "Country": "Danube",
+      "AppName": "Otcom",
+      "Department": "Music",
+      "CarModel": "Lancer Evolution",
+      "Corporate": "Sales",
+      "unique_id_": "/danube",
+      "unique_city_": "/binghatti"
+  
+    }
+  
+   
+  ]
+  
